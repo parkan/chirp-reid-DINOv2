@@ -1,0 +1,13 @@
+# data + outputs (users fetch CHIRP themselves)
+ReID/
+ReID_local/
+*.npy
+frame_meta.json
+manifest*.json
+files*.txt
+emb*/
+*.log
+# python
+__pycache__/
+*.pyc
+.venv/
